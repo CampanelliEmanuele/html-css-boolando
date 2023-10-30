@@ -4,10 +4,12 @@
 - [Boolando](#boolando)
   - [Esercizio](#esercizio)
     - [Consegna](#consegna)
-    - [Consigli](#consigli)
+      - [Consegna base](#consegna-base)
+      - [Consegna bonus](#consegna-bonus)
   - [Svolgimento](#svolgimento)
     - [Analisi grafica](#analisi-grafica)
-    - [Risultato](#risultato)
+    - [Risultato-base](#risultato-base)
+    - [Risultato-bonus](#risultato-bonus)
 
 # Boolando
 
@@ -18,18 +20,24 @@
 Imitare una versione semplificata di una pagina di Zalando.
 Ci ispiriamo al sito di Zalando per riprodurre il layout nello screenshot. Analizzate prima il layout solo con i commenti, poi passate ai blocchi colorati. Solo se i blocchi colorati funzionano passiamo al particolare...
 
-<img alt="base-exercise" src="./img/Toboolist-screenshot.png" width=850>
+#### Consegna base
 
-### Consigli
+<img alt="base-exercise" src="./img/other/Boolando-screenshot.png" width=650>
 
-Partiamo sempre dal definire le macroaree del layout e analizziamo poi gli elementi in comune nelle diverse aree e quindi tutto ciò che possiamo centralizzare, per rendere il codice meno ripetitivo e quindi più mantenibile.
+#### Consegna bonus
+
+<img alt="bonus-exercise" src="./img/other/Boolando-screenshot-bonus.png" width=650>
 
 ## Svolgimento
 
 ### Analisi grafica
 
-<img alt="analisi-grafica" src="./img/Toboolist-screenshot-analyzed.png" width=850>
+<img alt="analisi-grafica" src="./img/other/Boolando-screenshot-bonus-analyzed.png" width=650>
 
-### Risultato
+### Risultato-base
 
-<img alt="risultato-finale" src="./img/my-solution.PNG" width=850>
+<!-- <img alt="risultato-finale-base" src="./img/other/" width=> -->
+
+### Risultato-bonus
+
+<!-- <img alt="risultato-finale-bonus" src="./img/other/" width=> -->
