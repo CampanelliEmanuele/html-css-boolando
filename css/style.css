@@ -1,0 +1,9 @@
+.navbar {
+    display: flex;
+    list-style: none;
+    gap: 20px;
+}
+
+.header-logo {
+    width: 15%;
+}
