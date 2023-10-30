@@ -26,7 +26,13 @@
 }
 
 .header-logo {
-    width: 20%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;}
+
+.header-flex-item {
+    width: 30%;
 }
 
 /* main */
