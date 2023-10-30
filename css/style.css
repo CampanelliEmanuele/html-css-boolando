@@ -1,3 +1,20 @@
+/* General CSS */
+.content-center {
+    width: 75%;
+    margin: 0 auto;
+}
+
+/* flex */
+.flex-container {
+    display: flex;
+}
+
+/* header */
+.header-alignment {
+    justify-content: space-between;
+    align-items: center;
+}
+
 .navbar {
     display: flex;
     list-style: none;
@@ -5,5 +22,5 @@
 }
 
 .header-logo {
-    width: 15%;
+    width: 20%;
 }
