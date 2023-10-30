@@ -19,7 +19,7 @@
     align-items: center;
 }
 
-.navbar {
+.horizontal-list {
     display: flex;
     list-style: none;
     gap: 20px;
@@ -41,4 +41,10 @@
 
 .card-image {
     width: 100%;
+}
+
+/* footer */
+.footer-alignment {
+    justify-content: space-between;
+    align-items: center;
 }
